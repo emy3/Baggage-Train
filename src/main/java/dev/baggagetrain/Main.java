@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Welcome to the Baggage-Train D&D Management System!");
+
         Scanner scanner = new Scanner(System.in);
         boolean isAskingAgain = true;
 
