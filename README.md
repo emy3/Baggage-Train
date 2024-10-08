@@ -32,7 +32,7 @@ The **D&D Management Application** is a simple Java-based console application de
 ## **Installation** ⚙️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dnd-management-application.git
+   git clone [https://github.com/yourusername/dnd-management-application.git](https://github.com/emy3/Baggage-Train.git)
    ```
 2. Open the project in your preferred IDE or navigate to the project directory via terminal.
 3. Compile the source files:
@@ -90,3 +90,5 @@ DND-Management-Application/
 
 ## **License** 📄
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+![Alt](https://repobeats.axiom.co/api/embed/111349f6851246f653a62104b3bb863f9cf2da42.svg "Repobeats analytics image")
