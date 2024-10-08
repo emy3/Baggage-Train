@@ -1,4 +1,4 @@
-# **Baggage-Train a D&D Management Application** 🐉🎲
+# 🐉 **Baggage-Train a D&D Management Application** 🎲
 
 ## **Project Description**
 The **D&D Management Application** is a simple Java-based console application designed to help Dungeon Masters and players manage their characters' details, attributes, inventory, and spells. This tool provides a quick way to create, view, and update character information, making campaign management easier. The application is intended for both beginners and enthusiasts who want to streamline their D&D sessions.
