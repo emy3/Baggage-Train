@@ -48,7 +48,7 @@ The **D&D Management Application** is a simple Java-based console application de
 Once you start the application, you will be greeted with a menu like the following:
 
 ```
-Welcome to the D&D Management System! 🎉
+Welcome to the Baggage-Train D&D Management System! 🎉
 
 1. Create Character
 2. View Character
